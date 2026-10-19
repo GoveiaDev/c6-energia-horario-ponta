@@ -1,0 +1,14 @@
+{
+  "distribuidora": "CEMIG-D",
+  "subgrupo": "A4",
+  "modalidade": "Verde",
+  "resolucao": "Resolução Homologatória ANEEL nº 3.589, de 26 de maio de 2026",
+  "vigencia": "2026-05-28",
+  "fim_vigencia": "2027-05-27",
+  "fonte": "ANEEL, dados abertos — Tarifas homologadas das distribuidoras de energia elétrica (tarifa de aplicação, consumidor padrão, sem impostos)",
+  "ponta_tusd_rs_mwh": 1912.96, "ponta_te_rs_mwh": 474.22,
+  "fora_tusd_rs_mwh": 185.79, "fora_te_rs_mwh": 294.98,
+  "demanda_rs_kw": 23.77,
+  "ponta_rs_kwh": 2.38718,
+  "fora_ponta_rs_kwh": 0.48077
+}
